@@ -1,0 +1,41 @@
+Company_Name,Industry,Founded_Year,HQ_Location,Founder_Count,Total_Employees,Annual_Recurring_Revenue_USD,Burn_Rate_USD,Runway_Months,EBITDA_USD,Gross_Margin_%,Revenue_Growth_Rate_%,Total_Capital_Raised_USD,Last_Funding_Round,Valuation_USD,Investor_Count,Exit_Status,Product_Development_Stage,Customer_Growth_Rate_%,Sustainability_Score
+AIGrid,Deep Tech,2013,"London, UK",4,403,13998704,913181,36,681830,71,46.67,31782256,Series B,246127356,7,IPO,Scaling,5.91,7
+TerraVolt,Space Tech,2010,"London, UK",2,163,3811762,992624,34,882582,39.27,39.03,48610430,Series A,211576634,6,Acquired,Mature,14.41,5
+BlueTech,AI,2011,"Bangalore, India",4,148,29334590,436063,26,-193975,33.94,27.18,24402587,Series A,372696536,4,Failed,MVP,44.42,3
+WindSynergy,Ocean Tech,2006,"Bangalore, India",3,78,29359475,926009,25,322762,61.1,18.71,71352648,Series B,282801390,10,Failed,Scaling,0.27,8
+GreenFusion,AI,2012,"Berlin, Germany",1,72,6096303,412020,23,621000,73.7,34.05,76174469,Series A,166206700,5,Failed,MVP,-4.35,8
+SolarWave,Ocean Tech,2013,"Bangalore, India",1,466,31135118,900518,22,686388,35.47,72.97,27731813,Series A,105867482,1,Active,MVP,-4.63,3
+BlueTech,Renewable Energy,2005,"Berlin, Germany",5,318,48752407,381729,28,-124048,65.33,84.73,39942695,Series B,70010978,8,IPO,Mature,7.23,10
+FusionX,Climate Tech,2013,"Bangalore, India",3,145,34650589,609218,8,369566,23.75,66,49275551,Series B,437731390,5,Acquired,Prototype,44.72,10
+SolarWave,Space Tech,2007,"London, UK",5,335,40526040,162221,17,668485,27.56,70.07,7434676,Series B,11325687,9,Acquired,MVP,43.07,7
+BlueTech,Deep Tech,2012,"San Francisco, USA",2,195,26561125,957887,17,244923,37.41,24.23,11404797,Series A,30847474,3,Active,MVP,3.67,9
+ClimateCore,Climate Tech,2008,"Berlin, Germany",2,290,35428849,774208,12,780019,56.48,62.5,53591993,Series A,495921113,2,Active,MVP,22.81,4
+GreenFusion,AI,2019,"Toronto, Canada",3,246,30282611,858413,33,214261,25.26,47.34,13245069,Seed,281123740,6,Acquired,Prototype,7.53,6
+AIGrid,AI,2022,"London, UK",1,399,11375318,631359,6,774615,44.08,58.53,84455895,Series B,328874482,8,Acquired,Mature,10.64,9
+TerraVolt,Renewable Energy,2013,"London, UK",5,363,38272197,603811,15,-2936,39.68,47.83,79699759,Series A,266899018,6,Active,Scaling,-3.14,9
+BlueTech,Ocean Tech,2007,"Bangalore, India",2,362,13775318,18919,29,-164135,43.1,92.8,12671061,Series A,70085932,10,Acquired,Scaling,25.71,2
+FusionX,Ocean Tech,2019,"Toronto, Canada",2,149,39323648,931113,27,745787,67.83,74.93,64837860,Series C,257097472,9,IPO,Prototype,43.21,7
+BlueTech,Ocean Tech,2005,"Bangalore, India",2,131,30205101,45171,16,503207,68.59,24.83,86180163,Series B,372452481,4,IPO,Prototype,30.3,1
+HydroNext,Renewable Energy,2019,"London, UK",3,337,3586655,649501,24,-88966,27.45,21.63,96528907,Seed,185470523,6,Failed,Mature,42.77,6
+AIGrid,Renewable Energy,2017,"Toronto, Canada",1,227,21638554,128350,36,-143384,22.87,56.93,45478162,Seed,424461435,5,Active,Prototype,47.91,7
+SolarWave,Deep Tech,2010,"Toronto, Canada",5,278,39897958,350871,16,329752,47.15,11.24,66899038,Series A,243536978,2,IPO,Mature,31.63,2
+SolarWave,Space Tech,2020,"Berlin, Germany",2,327,17140634,736116,18,659242,57.75,10.79,16788720,Series A,328049103,6,Acquired,Scaling,41.39,2
+SolarWave,Climate Tech,2008,"London, UK",1,474,31269542,821641,34,-57386,55.64,36.38,32691868,Series A,314317472,7,Active,Scaling,27,10
+AIGrid,Ocean Tech,2020,"Berlin, Germany",5,16,34385701,228607,11,236151,30.77,59.04,3385441,Series C,71391528,1,Active,Mature,-2.11,3
+TerraVolt,Space Tech,2008,"San Francisco, USA",5,405,17263111,91831,23,61733,44.23,93.52,55184882,Series B,402287395,5,Active,MVP,-3.62,5
+AIGrid,Deep Tech,2019,"Berlin, Germany",4,267,44232736,825562,14,-24439,56.97,77.14,46582774,Series A,95832362,8,IPO,Mature,21.68,8
+AIGrid,Ocean Tech,2022,"Toronto, Canada",5,27,32927783,506401,17,926302,60.41,32.6,37879191,Seed,259077231,9,Acquired,MVP,18.52,4
+GreenFusion,Ocean Tech,2015,"London, UK",3,388,32889772,994130,33,983667,44.6,18.29,6922975,Series A,230090798,5,Failed,MVP,19.26,10
+WindSynergy,Renewable Energy,2020,"London, UK",5,352,30740044,661797,10,706938,56.81,22.09,58604205,Series C,189482195,9,Acquired,Scaling,46.26,7
+EcoEnergy,Deep Tech,2011,"London, UK",4,287,47227496,566547,17,-108556,61.42,34.3,13069758,Series A,94337619,9,IPO,Mature,10.94,4
+AIGrid,Climate Tech,2015,"Bangalore, India",2,42,37399232,233471,24,560505,61.13,59.27,38254526,Series A,442727681,7,Active,Prototype,5.68,3
+GreenFusion,AI,2014,"Bangalore, India",1,390,41182794,636648,25,354711,23.71,20.09,3393101,Series B,479797168,2,Active,Mature,20.37,6
+HydroNext,Deep Tech,2021,"San Francisco, USA",5,201,29769341,535084,15,824773,61.12,83.71,63993412,Series C,192168414,9,Acquired,Mature,46.32,5
+EcoEnergy,Renewable Energy,2009,"Berlin, Germany",5,73,23799063,340195,10,309333,23.81,50.15,93992253,Series C,137068380,10,IPO,Prototype,25.6,10
+SolarWave,Renewable Energy,2006,"Bangalore, India",5,293,36677971,474056,29,689657,27.21,6.87,72187843,Series B,47687068,6,Failed,MVP,17.83,6
+TerraVolt,Ocean Tech,2011,"Toronto, Canada",2,259,20810822,204334,10,653665,31.79,25.24,68215317,Series A,114204421,3,IPO,MVP,29.95,10
+GreenFusion,AI,2019,"Bangalore, India",1,13,29115569,164658,36,423840,33.69,7.32,84084215,Series C,187636572,7,IPO,Prototype,37.38,9
+SolarWave,Renewable Energy,2012,"Bangalore, India",5,80,35792938,651850,20,-138830,51.15,3.16,48675760,Series B,27428632,6,IPO,Prototype,36.38,7
+GreenFusion,Renewable Energy,2020,"Berlin, Germany",3,296,17047432,722105,10,-185150,58.4,34.88,77545994,Series C,28247806,5,IPO,Prototype,40.83,9
+TerraVolt,Renewable Energy,2012,"Berlin, Germany",5,372,34231782,157130,12,847046,22.73,95.77,38827734,Seed,342867760,4,IPO,Scaling,44.88,8
+HydroNext,Space Tech,2008,"San Francisco, USA",5,450,7573196,699911,15,958139,49.54,-0.48,38851368,Series B,466701991,10,Active,Scaling,31.18,7
